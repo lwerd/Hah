@@ -1,0 +1,14 @@
+.asdsa {
+    display:flex;
+    margin:18px;
+      justify-content:space-between;
+}
+.patch {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.useless {
+    width:32%;
+}
